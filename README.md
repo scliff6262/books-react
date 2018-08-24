@@ -27,6 +27,13 @@ The application can then be started using "foreman." This will start the rails s
 foreman start -p 3000
 ```
 
+## Video Walkthrough
+
+https://www.youtube.com/watch?v=zpwf4ZOFI3o
+
+## Demo
+
+https://books-react-frontend.herokuapp.com/
 
 ## Contributing
 
